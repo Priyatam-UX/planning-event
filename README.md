@@ -1,3 +1,6 @@
+#PriyatamPritu
+Machiene test mern stack
+
 # Steps to run this project:
 First of all, run *"npm install"* in both root and client folders.
 
